@@ -255,7 +255,7 @@ export default function Services() {
               price="40" unit="night" cta="Reserve →"
             />
             <ServiceCard
-              img="https://images.unsplash.com/photo-1604916851289-390068e23f08?w=500&q=80"
+              img="https://images.unsplash.com/photo-1601758064224-1c6d9e4f9b8f?w=500&q=80"
               tag="🚗 Taxi" title="Safe Pet Taxi"
               desc="Climate-controlled transport to vets, groomers, or anywhere in Baku."
               price="15" unit="trip"
