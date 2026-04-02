@@ -15,7 +15,7 @@ import ProviderApp from './provider/ProviderApp'
 import { ALL_PRODUCTS } from './data/products'
 
 export default function App() {
-  const [page,        setPage]        = useState('provider')
+  const [page,        setPage]        = useState('home')
   const [wishlist,    setWishlist]    = useState([])
   const [cart,        setCart]        = useState([])
   const [addedId,     setAddedId]     = useState(null)
